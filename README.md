@@ -45,9 +45,7 @@ I combine design thinking with software development expertise to build user-cent
 
 **Tools & Platforms**
 - Git & GitHub
-- Docker & Containerization
-- CI/CD Pipelines
-- Cloud Platforms (AWS, Google Cloud, Azure)
+- Cloud Platforms (AWS)
 
 ### 👯 Looking to Collaborate On
 
