@@ -1,82 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m a passionate UI/UX Designer, Software Developer, and Generative AI Enthusiast who loves building modern, user-focused digital experiences. I enjoy transforming ideas into clean, functional, and visually engaging products that combine creativity with technology.<br><br>With a strong interest in software development, I work on creating scalable and efficient applications while continuously exploring new technologies and development practices. Alongside development, I focus on designing intuitive user interfaces and seamless user experiences that make products both impactful and easy to use.<br><br>I’m also deeply interested in Generative AI and its ability to shape the future of technology. I enjoy experimenting with AI tools, automation, intelligent systems, and innovative solutions that bridge creativity and engineering.<br><br>I believe in continuous learning, problem-solving, and building projects that create real-world value. Whether it’s designing, coding, or exploring AI, I’m always excited to learn, create, and innovate.
 
-I'm **Subhojit**, a passionate **UI/UX Designer**, **Software Developer**, and **Gen AI Enthusiast** dedicated to creating beautiful, functional, and intelligent digital experiences.
 
-### 🎯 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@butterchiikenn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhojitg26) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SUBHOJIT GOPE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhojitgope5@gmail.com) 
 
-I combine design thinking with software development expertise to build user-centered solutions that leverage the latest technologies, including generative AI. My passion lies in bridging the gap between aesthetics and functionality while exploring innovative AI applications.
-
-### 🔭 What I'm Currently Working On
-
-- Building innovative Gen AI-powered applications
-- Designing intuitive user interfaces with modern design principles
-- Developing full-stack software solutions
-- Exploring emerging technologies in artificial intelligence
-
-### 🌱 Currently Learning
-
-- Advanced AI/ML techniques and LLM integration
-- Latest design systems and component frameworks
-- Cloud architecture and DevOps practices
-- Prompt engineering and AI model optimization
-
-### 💼 Skills
-
-**Design & UX**
-- UI/UX Design & Prototyping
-- Figma, Adobe Creative Suite
-- User Research & Usability Testing
-- Design Systems & Component Libraries
-- Wireframing & User Journey Mapping
-
-**Software Development**
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Python, Express, FastAPI
-- Full-Stack Development
-- REST APIs & GraphQL
-- Database Design (SQL, NoSQL)
-
-**AI & Machine Learning**
-- Generative AI & LLMs
-- Prompt Engineering
-- AI Integration & API Implementation
-- Data Analysis & Visualization
-- Python for AI/ML
-
-**Tools & Platforms**
-- Git & GitHub
-- Cloud Platforms (AWS)
-
-### 👯 Looking to Collaborate On
-
-- Gen AI-powered applications and tools
-- Innovative UI/UX design projects
-- Open-source software development
-- AI-enhanced user experience solutions
-
-### 🤔 Open to Help With
-
-- UI/UX design consultation
-- Frontend development guidance
-- Gen AI implementation advice
-- Full-stack development projects
-
-### 💬 Ask Me About
-
-- Design thinking and UX best practices
-- Building scalable applications
-- Integrating AI into user interfaces
-- Creative problem-solving approaches
-
-### 📫 How to Reach Me
-
-- GitHub: [@Subhojit-cloude](https://github.com/Subhojit-cloude)
-- Feel free to explore my repositories and connect with me!
-
-### ⚡ Fun Fact
-
-I believe the future of software is at the intersection of exceptional design, robust development, and intelligent AI systems. I'm excited about creating products that don't just look good but truly understand and serve user needs!
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Subhojit-cloude&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Subhojit-cloude&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Subhojit-cloude&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Subhojit-cloude&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Let's create something amazing together! 🚀**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
